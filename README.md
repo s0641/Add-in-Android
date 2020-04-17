@@ -1,2 +1,3 @@
 # Add-in-Android
 My first android app
+DO SEE THE FIRST LINES OF THE FILES CAREFULLY AND READ IT
